@@ -2,6 +2,12 @@
 
 This project aims to harness machine learning techniques to predict outcomes of NBA games with a high degree of accuracy. By analyzing historical data, we identify key factors that influence game results, allowing for informed predictions that can benefit teams, coaches, analysts, and sports enthusiasts. This documentation outlines the complete project flow, detailing each step from data acquisition to model deployment.
 
+## Team Members
+
+- Jetendra Mulinti
+- Goutham Vemula
+- Prajeeth Nakka
+
 #### Project Flow
 
 1. **Data Acquisition**
